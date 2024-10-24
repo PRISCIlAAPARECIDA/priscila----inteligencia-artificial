@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Se você despertasse em uma arena de combate em um mundo pós apocaliptico. Qual o primeiro pensamento?",
+        enunciado: "Se você despertasse em uma arena de combate em um mundo pós apocaliptico. Qual seria seu primeiro pensamento?",
         alternativas: [
             {
                 texto: "Isso é assustador!",
