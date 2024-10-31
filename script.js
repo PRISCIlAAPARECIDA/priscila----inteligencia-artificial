@@ -32,7 +32,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ela questiona se você gostaria de participar de uma serie de desafios ",
+        enunciado: "Ela questiona se você gostaria de participar de uma serie de desafios. O que você decidi? ",
         alternativas: [
             {
                 texto: "sim",
@@ -45,7 +45,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Você não tem escolha. Em desesper você decidi fugir e tem que escolher entre dois caminhas  ",
+        enunciado: "VOCÊ NÃO TEM ESCOLA. Em desespero você decidi fugir e tem que escolher entre dois caminhas  ",
         alternativas: [
             {
                 texto: "Um mais estreito porém mais curto",
