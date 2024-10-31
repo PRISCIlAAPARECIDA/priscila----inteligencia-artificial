@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Se você despertasse em uma arena de combate em um mundo pós apocaliptico. Qual seria seu primeiro pensamento?",
+        enunciado: "Se você despertasse em uma arena de combate em um mundo pós apocalíptico. Qual seria seu primeiro pensamento?",
         alternativas: [
             {
                 texto: "Isso é assustador!",
@@ -19,20 +19,20 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Uma voz assutadora ressoa de um alto falante em algum lugar da arena junto com vários gritos e aplausos eufóricos, então você percebe que faz parte de um espetaculo macabro. Qual atitude você toma?",
+        enunciado: "Uma voz assustadora ressoa de um alto falante em algum lugar da arena junto com vários gritos e aplausos eufóricos, então você percebe que faz parte de um espetáculo macabro. Qual atitude você toma?",
         alternativas: [
             {
                 texto: "Entra em completo desespero.",
                 afirmacao: "afirmação"
             },
             {
-                texto: "Tenta marter a calma e ouvir o que a voz diz.",
+                texto: "Tenta manter a calma e ouvir o que a voz diz.",
                 afirmacao: "afirmação"
             }
         ]
     },
     {
-        enunciado: "Ela questiona se você gostaria de participar de uma serie de desafios. O que você decidi? ",
+        enunciado: "Ela questiona se você gostaria de participar de uma série de desafios. O que você decide? ",
         alternativas: [
             {
                 texto: "sim",
@@ -45,20 +45,20 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "VOCÊ NÃO TEM ESCOLHA. Em desespero você decidi fugir e tem que escolher entre dois caminhas  ",
+        enunciado: "VOCÊ NÃO TEM ESCOLHA. Em desespero você decide fugir e tem que escolher entre dois caminhos: ",
         alternativas: [
             {
                 texto: "Um mais estreito porém mais curto",
                 afirmacao: "afirmação"
             },
             {
-                texto: "um de facil mobilidade porém mais longo",
+                texto: "um de fácil mobilidade porém mais longo",
                 afirmacao: "afirmação"
             }
         ]
     },
     {
-        enunciado: "Você avista a luz da saída, poré. sente uma respiração atrás de si. O que você faz? ",
+        enunciado: "Você avista a luz da saída, porém sente uma respiração atrás de si. O que você faz? ",
         alternativas: [
             {
                 texto: "Se vira para ver o que é ",
