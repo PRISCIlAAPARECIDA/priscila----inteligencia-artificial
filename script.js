@@ -32,27 +32,27 @@ const perguntas = [
         ]
     },
     {
-        enunciado: " ",
+        enunciado: "Ela questiona se você gostaria de participar de uma serie de desafios ",
         alternativas: [
             {
-                texto: "  ",
+                texto: "sim",
                 afirmacao: "afirmação"
             },
             {
-                texto: " ",
+                texto: "não",
                 afirmacao: "afirmação"
             }
         ]
     },
     {
-        enunciado: "  ",
+        enunciado: "Você não tem escolha. Em desesper você decidi fugir e tem que escolher entre dois caminhas  ",
         alternativas: [
             {
-                texto: "  ",
+                texto: "Um mais estreito porém mais curto",
                 afirmacao: "afirmação"
             },
             {
-                texto: "  ",
+                texto: "um de facil mobilidade porém mais longo",
                 afirmacao: "afirmação"
             }
         ]
