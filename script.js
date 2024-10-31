@@ -45,7 +45,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "VOCÊ NÃO TEM ESCOLA. Em desespero você decidi fugir e tem que escolher entre dois caminhas  ",
+        enunciado: "VOCÊ NÃO TEM ESCOLHA. Em desespero você decidi fugir e tem que escolher entre dois caminhas  ",
         alternativas: [
             {
                 texto: "Um mais estreito porém mais curto",
@@ -105,7 +105,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "YOU DIED...";
+    caixaPerguntas.textContent = "VOCÊ MORREU...";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
